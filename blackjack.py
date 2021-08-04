@@ -129,15 +129,6 @@ class Player:
 		else:
 			self.cont = 0
 
-# player1 = Player("Edbert Ekaputera")
-
-# player1.draw_card(card_deck, card_dict, "shown")
-# player1.draw_card(card_deck, card_dict, "shown")
-# player1.draw_card(card_deck, card_dict, "hidden")
-
-# print(player1.cards)
-# print(player1.points)
-# print(card_deck) 
 
 #Start of the game
 if __name__ == "__main__":
