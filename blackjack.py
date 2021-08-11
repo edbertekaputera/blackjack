@@ -146,7 +146,6 @@ if __name__ == "__main__":
 		else:
 			print("That wasn't an appropriate answer...\n")
 
-	player_continue = 1
 	print(f"\nDealer : Good day to you, {player1.name}.\nDealer : Today I will be your Dealer.")
 	print("Dealer : I will now draw the starting cards...")
 	#starting cards (two shown cards for player; 1 shown card,1 hidden card for dealer)
