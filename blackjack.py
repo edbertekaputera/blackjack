@@ -129,6 +129,8 @@ class Player:
 		else:
 			self.cont = 0
 
+class Blackjack:
+	
 
 #Start of the game
 if __name__ == "__main__":
